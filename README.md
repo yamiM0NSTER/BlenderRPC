@@ -13,6 +13,6 @@ Blender Rich Presence
 * Project uses discord application id created by me, which means it can disappear at any time without any notice. If that happens you can create your own application and build the project.
 
 # Setup
-* Put BlenderRPC.exe into your blender installation.
+* Put BlenderRPC.exe into your blender installation. (same folder as blender executable)
 * Create Shortcut of BlenderRPC.exe wherever you want it to be.
 * Run blender via created shortcut.
