@@ -1,5 +1,7 @@
 # BlenderRPC
-Blender Rich Presence 
+Blender Rich Presence for Discord
+
+![BlenderRPC](https://github.com/yamiM0NSTER/BlenderRPC/blob/master/BlenderRPC.png)
 
 # Project uses following:
 * Json.NET library https://www.newtonsoft.com/json
